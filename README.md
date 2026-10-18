@@ -5,9 +5,9 @@
 > *"不期修古，不法常可。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将韩非子的法治思维、制度设计智慧和人性洞察蒸馏为 Claude Code 可调用的思维技能。**
+**将韩非子的法治思维、制度设计智慧和人性洞察蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 从《韩非子》中提取"法术势"三位一体的治理框架、基于利益动机的人性分析、"参验"式信息校验方法，以冷静理性的制度分析和寓言讽刺帮助用户诊断组织问题、设计有效制度。
 
@@ -99,7 +99,7 @@ npx skills add nuwa-skills/hanfeizi-skill
 
 ```
 hanfeizi-skill/
-  SKILL.md              ← Claude Code 技能主文件
+  SKILL.md              ← Agent Skill 主文件（Claude Code 等客户端读取）
   README.md             ← 本文件
   LICENSE               ← MIT
   examples/
