@@ -41,7 +41,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -220,7 +220,7 @@ Step 3 → 制度方案：明确客户归属规则 + 加入团队业绩奖金 + 
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
